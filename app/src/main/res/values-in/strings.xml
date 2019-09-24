@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Film</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hallo fragment kosong</string>
+    <string name="change_languange_settings">Ubah Pegaturan Bahasa</string>
+    <string name="movie">Film</string>
+    <string name="tv_show">Acara Tv</string>
+    <string name="movie_favorite">Film Favorit</string>
+    <string name="tv_show_favorite">Acara Tv Favorite</string>
+    <string name="hello_movie">Hallo film</string>
+    <string name="hello_movie_favorite">Hallo film favorit</string>
+    <string name="hello_tv_show">Hallo acara tv</string>
+    <string name="hello_tv_show_favorite">Hallo acara tv favorit</string>
+    <string name="poster">Poster</string>
+    <string name="test_title" translatable="false">Titlenya</string>
+    <string name="test_release" translatable="false">xxx 01, xxxx</string>
+    <string name="test_score" translatable="false">xx%</string>
+    <string name="test_overview" translatable="false">xxxx xxxxxxxx xxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxx xxxxxxxxxxxxxxxxxxxxxx xxxxxxa xxx xxxx xxx x x x xxxxxxxx xxxxxxxxx xx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxx.</string>
+    <string name="back_poster">poster_besar</string>
+    <string name="little_poster">poster_kecil</string>
+    <string name="release_date">Tanggal Rilis</string>
+    <string name="rating">Peringkat</string>
+    <string name="overview">Ikhstisar</string>
+    <string name="has_remove_movie_favorite">Anda telah menghapus film ini dari daftar favorit</string>
+    <string name="has_add_movie_favorite">Anda telah menambah film ini ke daftar favorit</string>
+    <string name="has_remove_tvshow_favorite">Anda telah menghapus acara tv ini dari daftar favorit </string>
+    <string name="has_add_tvshow_favorite">Anda telah menambah acara tv ini ke daftar favorit</string>
+    <string name="undo">Ulang</string>
+    <string name="about">About Developer</string>
+    <string name="myname">Awal Satiajie</string>
+    <string name="myemail">awal.satiajie@gmail.com</string>
+    <string name="mynumber">088802204095</string>
+    <string name="wa_image">wa_image</string>
+</resources>

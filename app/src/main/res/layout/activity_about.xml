@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".AboutActivity">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/gambarku"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@drawable/fotoku"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        />
+
+    <TextView
+        android:id="@+id/nama"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/myname"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"
+        android:textSize="28sp"
+        android:layout_gravity="center"
+        />
+
+    <TextView
+        android:id="@+id/gmail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/myemail"
+        android:textSize="20sp"
+        android:layout_marginTop="50dp"
+        android:layout_gravity="center"
+        android:textColor="@color/colorPrimary"/>
+
+    <RelativeLayout
+        android:layout_marginTop="1dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/wa_image"
+            android:layout_gravity="center"
+            android:src="@drawable/whatsapp"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_marginStart="75dp"
+            android:contentDescription="@string/wa_image"/>
+
+        <TextView
+            android:id="@+id/mynumber"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/mynumber"
+            android:layout_toEndOf="@id/wa_image"
+            android:textSize="17sp"
+            android:layout_marginTop="20dp"
+            android:textColor="@android:color/holo_green_dark"/>
+
+    </RelativeLayout>
+
+</LinearLayout>

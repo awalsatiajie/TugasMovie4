@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="change_languange_settings">Change Languange Settings</string>
+    <string name="movie">Movie</string>
+    <string name="tv_show">Tv Show</string>
+    <string name="movie_favorite">Movie Favorite</string>
+    <string name="tv_show_favorite">Tv Show Favorite</string>
+    <string name="hello_movie">Hello Movie</string>
+    <string name="hello_movie_favorite">Hello Movie Favorite</string>
+    <string name="hello_tv_show">Hello Tv Show</string>
+    <string name="hello_tv_show_favorite">Hello Tv Show Favorite</string>
+    <string name="poster">Poster</string>
+    <string name="test_title" translatable="false">The Title</string>
+    <string name="test_release" translatable="false">xxx 01, xxxx</string>
+    <string name="test_score" translatable="false">xx%</string>
+    <string name="test_overview" translatable="false">xxxx xxxxxxxx xxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxx xxxxxxxxxxxxxxxxxxxxxx xxxxxxa xxx xxxx xxx x x x xxxxxxxx xxxxxxxxx xx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxx.</string>
+    <string name="back_poster">back_poster</string>
+    <string name="little_poster">little_poster</string>
+    <string name="release_date">Release Date</string>
+    <string name="rating">Rating</string>
+    <string name="overview">Overview</string>
+    <string name="has_remove_movie_favorite">You\'ve already removed this film from favorite list</string>
+    <string name="has_add_movie_favorite">You\'ve added this film to the favorite list</string>
+    <string name="has_remove_tvshow_favorite">You\'ve already removed this tv show from favorite list</string>
+    <string name="has_add_tvshow_favorite">You\'ve added this tv show to the favorite list</string>
+    <string name="undo">Undo</string>
+    <string name="about">About Developer</string>
+    <string name="myname">Awal Satiajie</string>
+    <string name="myemail">awal.satiajie@gmail.com</string>
+    <string name="mynumber">088802204095</string>
+    <string name="wa_image">wa_image</string>
+</resources>
